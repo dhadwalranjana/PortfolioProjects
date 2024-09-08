@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+git add _config.yml
+git commit -m "Added Jekyll theme"
+git push origin main
