@@ -10,4 +10,9 @@
 
 
 # SQL -  Covid Data Exploration Project
+## Covid Data Exploration details description
+## Technologies Used
+- MYSQL (PostgreSQL)
+- GitHub
+
 # SQL-  Nashville Housing Data Cleaning Project
