@@ -1,4 +1,14 @@
+
 theme: jekyll-theme-minimal
-git add _config.yml
-git commit -m "Added Jekyll theme"
-git push origin main
+
+title: My Portfolio
+description: This is my portfolio website showcasing my data analysis projects.
+
+# Add navigation links
+links:
+  - title: "Home"
+    url: "/https://github.com/dhadwalranjana/PortfolioProjectsPart1/blob/main/README.md"
+  - title: "Covid Data Exploration"
+    url: "https://github.com/dhadwalranjana/PortfolioProjectsPart1/blob/main/Covid%20Portfolio%20Project%20script.sql"
+  - title: "Nashville Housing Data Cleaning"
+     url: "https://github.com/dhadwalranjana/PortfolioProjectsPart1/blob/main/Data%20Cleaning%20for%20Nashville%20Housing%20dataset.sql"
