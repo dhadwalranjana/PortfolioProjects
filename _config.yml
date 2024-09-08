@@ -4,7 +4,6 @@ theme: jekyll-theme-minimal
 title: My Portfolio
 description: This is my portfolio website showcasing my data analysis projects.
 
-# Add navigation links
 links:
   - title: "Home"
     url: "/https://github.com/dhadwalranjana/PortfolioProjectsPart1/blob/main/README.md"
