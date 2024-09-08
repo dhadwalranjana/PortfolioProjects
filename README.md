@@ -23,3 +23,13 @@
 
   
 # SQL-  Nashville Housing Data Cleaning Project
+
+## Project Overview
+- Nashville Housing Data Cleaning details description
+  
+## Technologies Used
+- MYSQL (PostgreSQL)
+- GitHub
+
+## How to Run
+- https://github.com/dhadwalranjana/PortfolioProjectsPart1/blob/main/Data%20Cleaning%20for%20Nashville%20Housing%20dataset.sql
