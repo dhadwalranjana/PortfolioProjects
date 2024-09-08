@@ -10,9 +10,16 @@
 
 
 # SQL -  Covid Data Exploration Project
-## Covid Data Exploration details description
+
+## Project Overview
+- Covid Data Exploration details description
+  
 ## Technologies Used
 - MYSQL (PostgreSQL)
 - GitHub
+  
+## How to Run
+- https://github.com/dhadwalranjana/PortfolioProjectsPart1/blob/main/Covid%20Portfolio%20Project%20script.sql
 
+  
 # SQL-  Nashville Housing Data Cleaning Project
