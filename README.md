@@ -1,6 +1,6 @@
 #  Data Analysis Projects
 
-## SQL - Covid Data Exploration Project
+# SQL - Covid Data Exploration Project
 [Link to project](https://github.com/dhadwalranjana/PortfolioProjectsPart1/blob/main/Covid%20Portfolio%20Project%20script.sql)
 
 
