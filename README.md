@@ -13,7 +13,7 @@
 
 
 ## Project Overview
-- In this project I have explored the Covid Data and its affects on world.
+- In this project I have explored the covid's affect on world and how people were vaccinated.
   
 ## Technologies Used
 - MYSQL (PostgreSQL)
