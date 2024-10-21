@@ -1,6 +1,6 @@
 #  Data Analysis Projects
 
-# SQL - Covid Data Exploration Project
+## SQL - Covid Data Exploration Project
 [Link to project](https://github.com/dhadwalranjana/PortfolioProjectsPart1/blob/main/Covid%20Portfolio%20Project%20script.sql)
 
 
@@ -12,12 +12,8 @@
 - [Results](#results)
 
 
-
-
-# SQL -  Covid Data Exploration Project
-
 ## Project Overview
-- Covid Data Exploration details description
+- In this project I have explored the Covid Data and its affects on world.
   
 ## Technologies Used
 - MYSQL (PostgreSQL)
@@ -25,7 +21,7 @@
  
 
 ## SQL -  Nashville Housing Data Cleaning Project
-[Link to another project](https://github.com/dhadwalranjana/PortfolioProjectsPart1/blob/main/Data%20Cleaning%20for%20Nashville%20Housing%20dataset.sql)
+[Link to project](https://github.com/dhadwalranjana/PortfolioProjectsPart1/blob/main/Data%20Cleaning%20for%20Nashville%20Housing%20dataset.sql)
 
   
 ## Table of Contents
@@ -36,7 +32,7 @@
 - [Results](#results)
 
 ## Project Overview
-- Nashville Housing Data Cleaning details description
+- In this project I have cleaned the data to get a dataset which then further can be easily explored and visualized. Further, effective insights can be drawn from the same
   
 ## Technologies Used
 - MYSQL (PostgreSQL)
