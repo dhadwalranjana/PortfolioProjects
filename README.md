@@ -7,8 +7,6 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Key Queries](#key-queries)
 - [Results](#results)
 
 
@@ -18,6 +16,7 @@
 ## Technologies Used
 - SQL (PostgreSQL)
 - GitHub
+
  
 
 ## SQL -  Nashville Housing Data Cleaning Project
@@ -27,8 +26,6 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Key Queries](#key-queries)
 - [Results](#results)
 
 ## Project Overview
