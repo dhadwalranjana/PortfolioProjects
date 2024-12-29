@@ -4,8 +4,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: My Portfolio
-description: About Me
-            I am an experienced Data Analyst with a strong background in transforming complex data into actionable insights that drive product improvement and business success. 
+description: I am an experienced Data Analyst with a strong background in transforming complex data into actionable insights that drive product improvement and business success. 
 
             I am passionate about leveraging data to create impactful solutions, collaborating with cross-functional teams, and driving data-driven decisions.
 
