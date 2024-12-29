@@ -10,7 +10,7 @@
 - [Results](#results)
 
 
-## Project Overview
+### Project Overview
 - In this project, I have done data exploration of for covid's effect on the world and how people were vaccinated.
   
 ### Technologies Used
@@ -28,10 +28,10 @@
 - [Technologies Used](#technologies-used)
 - [Results](#results)
 
-## Project Overview
+### Project Overview
 - In this project, I have cleaned the data to get a dataset that can be easily explored and visualized. Further, effective insights can be drawn from the data.
   
-## Technologies Used
+### Technologies Used
 - SQL (PostgreSQL)
 - GitHub
 
