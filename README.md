@@ -13,7 +13,7 @@
 ## Project Overview
 - In this project, I have done data exploration of for covid's effect on the world and how people were vaccinated.
   
-## Technologies Used
+### Technologies Used
 - SQL (PostgreSQL)
 - GitHub
 
