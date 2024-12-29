@@ -35,7 +35,7 @@
 - In this project, I have cleaned the data to get a dataset that can be easily explored and visualized. Further, effective insights can be drawn from the data.
   
 ## Technologies Used
-- MYSQL (PostgreSQL)
+- SQL (PostgreSQL)
 - GitHub
 
 
