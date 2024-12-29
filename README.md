@@ -13,7 +13,7 @@
 
 
 ## Project Overview
-- In this project I have explored the covid's affect on world and how people were vaccinated.
+- In this project, I have done data exploration of for covid's effect on the world and how people were vaccinated.
   
 ## Technologies Used
 - MYSQL (PostgreSQL)
@@ -32,7 +32,7 @@
 - [Results](#results)
 
 ## Project Overview
-- In this project, I have cleaned the data to get a dataset which then further can be easily explored and visualized. Further, effective insights can be drawn from the same
+- In this project, I have cleaned the data to get a dataset that can be easily explored and visualized. Further, effective insights can be drawn from the data.
   
 ## Technologies Used
 - MYSQL (PostgreSQL)
